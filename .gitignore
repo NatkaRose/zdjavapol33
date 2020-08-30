@@ -1,0 +1,6 @@
+# Build artefacts
+out/
+
+# IDE files
+.idea/
+*.iml
